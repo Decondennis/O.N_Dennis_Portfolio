@@ -30,7 +30,7 @@ export default function Resume() {
               <h4>Bachelor of Engineering: Electrical &amp; Electronics Engineering</h4>
               <h5>2006 – 2011</h5>
               <p><em>Cross River University of Technology, Cross River State, Calabar, Nigeria,</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              {/* <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> */}
             </div>
 
             <h3 className="resume-title">Professional Experience</h3>

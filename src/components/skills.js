@@ -62,6 +62,13 @@ export default function Skills() {
               </div>
             </div>
 
+            <div className="progress">
+              <span className="skill">Version control (GIT)</span>
+              <div className="progress-bar-wrap">
+              <ProgressBar now={now3} label={`${now3}%`} />
+              </div>
+            </div>
+
           </div>
 
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
@@ -93,6 +100,13 @@ export default function Skills() {
               <span className="skill">MySQL</span>
               <div className="progress-bar-wrap">
               <ProgressBar now={now8} label={`${now8}%`} />
+              </div>
+            </div>
+
+            <div className="progress">
+              <span className="skill">RESTful APIs</span>
+              <div className="progress-bar-wrap">
+              <ProgressBar now={now5} label={`${now5}%`} />
               </div>
             </div>
             

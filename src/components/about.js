@@ -11,7 +11,12 @@ export default function About() {
 
         <div className="section-title">
           <h2>About</h2>
-          <p>I am a web developer from Nigeria. I enjoy building everything from small business sites to rich interactive web apps. if you are abusiness seeking a web presence or an employer looking to hire, you can get in touch with me here.</p>
+          <p>I am a skilled Full Stack Developer with a passion for creating exceptional web applications. 
+            I excel in crafting intuitive and visually appealing user interfaces and implementing robust
+              back-end functionalities and APIs. With a commitment to continuous learning.
+               I keeps up-to-date with the latest trends and best practices. 
+               My strong problem-solving skills, effective communication, and collaborative nature make 
+               me an invaluable asset to any development team. </p>
         </div>
 
         <div className="row">
