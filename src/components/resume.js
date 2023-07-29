@@ -17,7 +17,7 @@ export default function Resume() {
             <h3 className="resume-title">Sumary</h3>
             <div className="resume-item pb-0">
               <h4>O.N.Dennis</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <p><em>With a background in electrical and electronics engineering, I found my true calling in web development, especially in the exciting world of React JS. I take great pride in creating robust and dynamic web applications that provide an excellent user experience.</em></p>
               <ul>
                 <li>Calabar,Cross River,Nigeria</li>
                 <li>(234) 706-202-8958</li>

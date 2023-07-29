@@ -39,7 +39,7 @@ export default function Portfolio() {
               <img src={port1} className="img-fluid" alt="" />
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/xdplax.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -49,7 +49,7 @@ export default function Portfolio() {
               <img src={port2} className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Web 3"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/Xdfastcom.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -59,7 +59,7 @@ export default function Portfolio() {
               <img src={port3} className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 2"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/O.N_Dennis_Portfolio.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -69,7 +69,7 @@ export default function Portfolio() {
               <img src={port4} className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Card 2"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/EduStow.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -79,7 +79,7 @@ export default function Portfolio() {
               <img src={port5} className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Web 2"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/EduStow_Admin.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -89,7 +89,7 @@ export default function Portfolio() {
               <img src={port6} className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 3"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/XdfastAdmin.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -99,7 +99,7 @@ export default function Portfolio() {
               <img src={port7}className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Card 1"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/XdfastAdmin.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -109,7 +109,7 @@ export default function Portfolio() {
               <img src={port8} className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Card 3"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/PlaySafe.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ export default function Portfolio() {
               <img src={port9} className="img-fluid" alt=""/>
               <div className="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Web 3"><i className="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                <a href="https://github.com/Decondennis/xdplax.git" title="More Details"><i className="bx bx-link"></i></a>
               </div>
             </div>
           </div>

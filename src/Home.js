@@ -20,10 +20,10 @@ return (
         <h1 className="text-light"><a href="index.html">O.N.Dennis</a></h1>
         <div className="social-links mt-3 text-center">
           <a className="twitter"><i className="bx bxl-twitter"></i></a>
-          <a className="facebook"><i className="bx bxl-facebook"></i></a>
+          <a href="https://www.facebook.com/dennis.okonnachi.5" className="facebook"><i className="bx bxl-facebook"></i></a>
           <a className="instagram"><i className="bx bxl-instagram"></i></a>
           <a className="google-plus"><i className="bx bxl-skype"></i></a>
-          <a className="linkedin"><i className="bx bxl-linkedin"></i></a>
+          <a href="https://ng.linkedin.com/in/dennis-oko-nnachi-948b018b" className="linkedin"><i className="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -505,7 +505,7 @@ return (
         
         
        
-        Designed by <a href="https://xdplax.com/">Xdplax Int'l</a>
+        Designed by <a href="https://xdplaxx.com/">Xdplax Int'l</a>
       </div>
     </div>
   </footer>

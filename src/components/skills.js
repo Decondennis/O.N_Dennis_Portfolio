@@ -109,6 +109,13 @@ export default function Skills() {
               <ProgressBar now={now5} label={`${now5}%`} />
               </div>
             </div>
+
+            <div className="progress">
+              <span className="skill">Laravel</span>
+              <div className="progress-bar-wrap">
+              <ProgressBar now={now6} label={`${now6}%`} />
+              </div>
+            </div>
             
 
           </div>
